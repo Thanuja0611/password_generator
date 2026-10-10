@@ -65,7 +65,7 @@ To host this project online for free using GitHub Pages:
 3. **Push to GitHub**:
    ```bash
    git branch -M main
-   git remote add origin https://github.com/thanuja0611/password-generator.git
+   git remote add origin https://github.com/thanuja0611/password_generator.git
    git push -u origin main
    ```
 
@@ -74,7 +74,7 @@ To host this project online for free using GitHub Pages:
    - Under **Build and deployment** > **Branch**, select `main` branch and `/ (root)` folder.
    - Click **Save**.
    - Your live website will be available at:
-     `https://thanuja0611.github.io/password-generator/`
+     `https://thanuja0611.github.io/password_generator/`
 
 ---
 
